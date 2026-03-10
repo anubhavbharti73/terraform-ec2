@@ -10,3 +10,5 @@ resource "aws_iam_policy" "admin_everywhere" {
     }]
   })
 }
+
+
